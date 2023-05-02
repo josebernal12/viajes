@@ -1,0 +1,14 @@
+
+
+
+
+$fuente_headings: 'Roboto', sans-serif;
+$fuente_textos: 'Roboto', sans-serif;
+
+$headings-font-family: $fuente_headings;
+$font-family-base: $fuente_textos;
+
+$headings-font-weight: 900;
+
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';

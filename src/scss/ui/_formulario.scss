@@ -1,0 +1,7 @@
+@use '../custom' as *;
+.formulario {
+    width: 100rem;
+    border-radius: 2rem;
+    padding: 1rem 5rem;
+    border: .3rem solid $secondary
+}

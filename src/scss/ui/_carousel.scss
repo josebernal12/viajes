@@ -1,0 +1,29 @@
+@use '../custom' as *;
+
+.imagen_inglaterra {
+    background-image: linear-gradient(to right, rgb(0 0 0 / .7),
+            rgb(0 0 0 / .7)), url('../img/inglaterra.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60rem;
+    padding: 10rem;
+
+}
+
+.imagen_japon {
+    background-image: linear-gradient(to right, rgb(0 0 0 / .7),
+            rgb(0 0 0 / .7)), url('../img/japon.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60rem;
+    padding: 10rem;
+}
+
+.imagen_canada {
+    background-image: linear-gradient(to right, rgb(0 0 0 / .7),
+            rgb(0 0 0 / .7)), url('../img/canada.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60rem;
+    padding: 10rem;
+}
